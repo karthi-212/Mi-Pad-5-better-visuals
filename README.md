@@ -4,7 +4,7 @@ Fixes bad resolution on Mi Pad 5 (Android resolution) and enables to render the 
 You must have root access to install this module.
 You can install this module using magisk which i have tested 
 # Side Effects 
-As this module is to increase the resolution this will result in,
+As this module is to increase the resolution this will result in
     High GPU usage in games may face fps drops  ,
     Increase in temperature   and 
     Decrease in battery backup
