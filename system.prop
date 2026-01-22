@@ -1,0 +1,11 @@
+# === DEVICE IDENTITY SPOOF ===
+ro.product.brand=samsung
+ro.product.manufacturer=samsung
+ro.product.model=SM-X800
+ro.product.name=gts8p
+ro.product.device=gts8p
+ro.build.characteristics=tablet
+
+# === DISPLAY CLASS HINTS ===
+ro.sf.lcd_density=320
+persist.sys.sf.native_mode=1
